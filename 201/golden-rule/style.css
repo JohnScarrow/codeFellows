@@ -1,0 +1,48 @@
+/*hidden*/
+.clear-fix{
+  clear:both;
+}
+
+*{
+  background-color: black;
+  color: Green;
+  box-sizing: border-box;
+}
+html{
+
+}
+Body{
+  background-color:blue;
+}
+#top-half {
+  height:50%;
+  border: green;
+  background-color: green
+}
+#bottom-left {
+  height:40%;
+  width:50%;
+  border: green;
+  background-color: olive;
+  display: inline-block;
+  float: left;
+}
+#bottom-right {
+    height:40%;
+    width:50%;
+    border: green;
+    background-color: red;
+    display: inline-block;
+    float: right;
+  }
+#botton-tenth {
+  height: 10%;
+  background-color: salmon;
+}
+#br-box{
+  height:50%;
+  width:50%;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 25%;
+}

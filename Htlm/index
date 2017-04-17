@@ -1,0 +1,21 @@
+<html>
+  <head>
+    Page instruction
+    <title>Title</title>
+    background {black};
+  </head>
+  <body>
+    Text
+    <Header>
+    </header>
+    <nav>
+    </nav>
+    <section>
+    <p>
+      Welcome to that Penguin Sight
+    </p>
+    </section>
+    <footer>
+    </footer>
+  </body>
+</html>

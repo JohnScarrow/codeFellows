@@ -1,0 +1,127 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 1250px;
+       height: 100%;
+       background-color: #9CB8A9;
+       opacity: 0.5
+       font: normal small-caps normal 16px/1.4 Georgia;
+    }
+
+    header {
+        background: url(rocks.jpg);
+        box-shadow: 3px 3px 5px 6px #ccc;
+        padding: 5px;
+        font-size: 35px;
+        color: #E8F0D9;
+        display: block;
+        font:
+          font-family: Georgia;
+          line-height: 1.4;
+          font-weight: normal;
+          font-stretch: normal;
+          font-variant: small-caps;
+          font-size: 35px;
+        text-align: center;
+    }
+    nav {
+        float: left;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+        text-align: center;
+        margin-left: 50px;
+        margin-right: auto;
+        font:
+          font-family: Georgia;
+          line-height: 1.6;
+          font-weight: bold;
+          font-stretch: normal;
+          font-variant: small-caps;
+          font-size: 15px;
+        transition: background-color 0.5s ease;
+        background-color: #E8F0D9;
+    }
+    nav li a:hover {
+  background-color: #918B77;
+}
+    a {
+        color: ;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+
+      }
+    .goldmyer {
+        background-position: center;
+        width: 100px
+        height auto;
+    }
+    img {
+        width: 700px;
+        height:auto;
+        display: block;
+        margin-left: 275px;
+        margin-right: auto;
+                }
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
+    p {
+      text-align: center;
+      margin-left: 300px;
+      margin-right: auto
+      font:
+        font-family: Georgia;
+        line-height: 1.4;
+        font-weight: normal;
+        font-stretch: normal;
+        font-variant: small-caps;
+        font-size: 20px;
+    }
+    h2 {
+      text-align: center;
+      margin-left: 300px;
+      margin-right: auto
+      font:
+        font-family: Georgia;
+        line-height: 1.4;
+        font-weight: strong;
+        font-stretch: normal;
+        font-variant: small-caps;
+        font-size: 30px
+    }
